@@ -14,5 +14,5 @@ Running:
 <br>1. Grab jar from latest release https://github.com/Dawe257/notepad/releases/latest
 <br>2. doubleclick or <code>java -jar notepad.jar</code>
 <hr>
-User FlatLaf look and feel https://github.com/JFormDesigner/FlatLaf
+Used FlatLaf look and feel https://github.com/JFormDesigner/FlatLaf
 <br>Java 17 is needed
