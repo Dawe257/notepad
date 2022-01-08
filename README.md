@@ -1,5 +1,11 @@
 # notepad
-simple java notepad
+simple java notepad with basic functions such as:
+<ul>
+  <li>open, save and edit text files</li>
+  <li>choosable theme(dark and light)
+</ul>
+
+<img src="https://i2.paste.pics/FKY2I.png" width="613" height="369" alt="Screenshot" align="center">
 <hr>
 Running:
 <br>1. Clone
